@@ -1,0 +1,5 @@
+(
+    damage: 25.0,
+    durability: 170.0,
+    min_level: 4,
+)
